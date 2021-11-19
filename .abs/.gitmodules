@@ -1,0 +1,6 @@
+[submodule "skein-feedstock" ]
+    path = include/foo
+    branch = master
+    url = ../skein-feedstock
+
+
